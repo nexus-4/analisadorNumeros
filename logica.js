@@ -48,7 +48,7 @@ finalizarBotao.onclick = function() {
         resultado.innerHTML += `<p> O maior numero é ${maior} <p/>`
         resultado.innerHTML += `<p> O menor numero é ${menor}<p/>`
         resultado.innerHTML += `<p>A soma desses nuemro é ${soma} <p/>`
-        resultado.innerHTML += `<p> A media desses numeros é ${media.} <p/>`
+        resultado.innerHTML += `<p> A media desses numeros é ${media} <p/>`
         
     }
 }
